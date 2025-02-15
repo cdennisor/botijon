@@ -1,5 +1,5 @@
 /* token para telegram */
-export const telegram_token="<7413823282:AAHxNRVBD0MAM7rsVNRPVOS4l3Fml0jFQ6E>";
+export const telegram_token="7413823282:AAHxNRVBD0MAM7rsVNRPVOS4l3Fml0jFQ6E";
 
 /* alt+96 */
 export const telegram_api=`https://api.telegram.org/bot${telegram_token}`;
